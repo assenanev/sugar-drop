@@ -1,0 +1,419 @@
+
+cc.png
+size: 1019,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballGreen
+  rotate: false
+  xy: 959, 15
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+biscuitBig
+  rotate: false
+  xy: 2, 175
+  size: 539, 840
+  orig: 539, 840
+  offset: 0, 0
+  index: -1
+btnChallenge
+  rotate: false
+  xy: 655, 366
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+btnChallengeDown
+  rotate: false
+  xy: 660, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+btnGuess
+  rotate: false
+  xy: 346, 18
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+btnGuessDown
+  rotate: false
+  xy: 503, 18
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+btnMenu
+  rotate: false
+  xy: 543, 905
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnMenuDown
+  rotate: false
+  xy: 543, 793
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnMusic
+  rotate: false
+  xy: 543, 681
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnMusicDown
+  rotate: false
+  xy: 543, 569
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnMusicOff
+  rotate: false
+  xy: 543, 457
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnNext
+  rotate: false
+  xy: 655, 209
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+btnNextDown
+  rotate: false
+  xy: 812, 209
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+btnPause
+  rotate: false
+  xy: 660, 795
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+btnPauseDown
+  rotate: false
+  xy: 655, 573
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 2, 3
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+btnPlayDown
+  rotate: false
+  xy: 174, 3
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+btnReplay
+  rotate: false
+  xy: 543, 345
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnReplayDown
+  rotate: false
+  xy: 543, 233
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnScore
+  rotate: false
+  xy: 882, 885
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnScore2
+  rotate: false
+  xy: 882, 753
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnScore2Down
+  rotate: false
+  xy: 877, 621
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnScoreDown
+  rotate: false
+  xy: 877, 489
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnSettings
+  rotate: false
+  xy: 867, 77
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnSound
+  rotate: false
+  xy: 862, 377
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+candyCount
+  rotate: false
+  xy: 596, 187
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+candyIcon
+  rotate: false
+  xy: 867, 8
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+colorsCount
+  rotate: false
+  xy: 969, 331
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+roundsCount
+  rotate: false
+  xy: 974, 443
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+txtBg
+  rotate: false
+  xy: 543, 180
+  size: 51, 51
+  split: 19, 18, 19, 20
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+
+cc2.png
+size: 1011,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballOrange
+  rotate: false
+  xy: 516, 625
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+beanGreen
+  rotate: false
+  xy: 827, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+beanOrange
+  rotate: false
+  xy: 445, 72
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+beanRed
+  rotate: false
+  xy: 516, 563
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+biscuit
+  rotate: false
+  xy: 2, 134
+  size: 525, 353
+  orig: 525, 353
+  offset: 0, 0
+  index: -1
+btnDown
+  rotate: false
+  xy: 516, 789
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnDownDown
+  rotate: false
+  xy: 628, 901
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnPlay75
+  rotate: false
+  xy: 730, 906
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+btnPlay75Down
+  rotate: false
+  xy: 348, 37
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+btnSettingsDown
+  rotate: false
+  xy: 2, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+btnSoundDown
+  rotate: false
+  xy: 516, 891
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnSoundOff
+  rotate: false
+  xy: 134, 22
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+btnUp
+  rotate: false
+  xy: 246, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnUpDown
+  rotate: false
+  xy: 516, 687
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cake3Multy
+  rotate: false
+  xy: 889, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+cakeMulty
+  rotate: false
+  xy: 516, 501
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+doughnutPink
+  rotate: false
+  xy: 951, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+jellyGreen
+  rotate: false
+  xy: 578, 625
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+jellyPink
+  rotate: false
+  xy: 578, 563
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+jellyYellow
+  rotate: false
+  xy: 578, 501
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lollypop1Pink
+  rotate: false
+  xy: 529, 439
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lollypop2Pink
+  rotate: false
+  xy: 529, 377
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lollypop3Multy
+  rotate: false
+  xy: 529, 315
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+macaronGreen
+  rotate: false
+  xy: 529, 253
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+macaronPink
+  rotate: false
+  xy: 529, 191
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+pancakesMulty
+  rotate: false
+  xy: 529, 129
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 2, 489
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+violet
+  rotate: false
+  xy: 591, 439
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
